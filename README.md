@@ -1,12 +1,12 @@
 # Proyecto FarmUNI
-Proyecto de Interacción Humano Computador.
+Proyecto de Interacción Humano-Computador.
 
 Integrantes:
 
--Vargas Torres, Eros Aylthon.
+- Vargas Torres, Eros Aylthon.
 
--Yacolca Huaman, Jesus Miguel.
+- Yacolca Huaman, Jesus Miguel.
 
--Reyes Gutierrez, Jose Daniel.
+- Reyes Gutierrez, Jose Daniel.
 
--Oliva Valdivia, Abel Alejandro.
+- Oliva Valdivia, Abel Alejandro.
